@@ -1,0 +1,141 @@
+body {
+    background-image: url("media/Monster-Hunter-World-Iceborne-PC.avif");
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    background-size: cover;
+}
+
+h1 {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+table {
+    background-color: #0c0c0d;
+}
+
+table, th, td {
+    border: 1px solid #20a4e1;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#titleTable {
+    padding: 5px;
+    background-color: #0c0c0d;
+}
+
+#contentTable {
+    padding: 5px;
+    background-color: #2c2e30;
+}
+/* sets the display for all of the content of the site */
+.wrapper {
+    display: grid;
+    justify-content: center;
+}
+
+/* the main actual content of the site. The square that is layered right on top of the background image
+*/
+.content {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 1000px; 
+    background-color: #383535;
+    border-radius: 7px; 
+    border:#20a4e1 solid 5px;
+    grid-template-rows: 0.5fr 2fr;
+    grid-template-columns: 130px 0.5fr 1fr;
+    opacity: 0.98;
+} 
+
+.title {
+    align-self: start;
+    justify-self: left;
+    margin: 30px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #20a4e1 solid 3px; 
+}
+
+.navigator {
+    align-self: start;
+    justify-self: left;
+    margin: 20px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #20a4e1 solid 3px;
+}
+
+.input {
+    display: inline-block;
+    position: relative;
+    margin-right: 90px;
+    padding: 10px;
+    border: solid 3px #20a4e1;
+    border-radius: 4px;
+    background-color: #383535;
+}
+
+.input:hover {
+    background-color: #ffffff;
+}
+
+a:hover {
+    color: #20a4e1;
+}
+
+.items {
+    list-style: none;
+    position: relative;
+    margin: 0px;
+}
+
+.buildTable {
+    margin-left: 50px;
+}
+
+.guideWrapper {
+    align-self: start;
+    justify-self: left;
+    width: 500px;
+    height: 710px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #20a4e1 solid 3px;
+}
+
+/* an empty rectangle with gold border at the top*/
+.styleTop {
+    background-color: #292828;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+    border-bottom: #20a4e1 solid 3px;
+}
+
+/* an empty rectangle with a gold border at the bottom*/
+.styleBottom {
+    background-color: #292828;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+    border-top: #20a4e1 solid 3px;
+}
+
+.text {
+    padding: 10px;
+}

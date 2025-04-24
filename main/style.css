@@ -1,0 +1,192 @@
+body {
+    background-image: url("media/MHR-Sunbreak-banner.jpg");
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    color: white;
+    background-size: cover;
+}
+
+h4 {
+    padding: 10px;
+}
+
+/* sets the display for all of the content of the site */
+.wrapper {
+    display: grid;
+    justify-content: center;
+}
+
+/* the main actual content of the site. The square that is layered right on top of the background image
+*/
+.content {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 1000px; 
+    background-color: #383535;
+    border-radius: 7px;
+    border:#baa227 solid 5px;
+    grid-template-rows: 100px 1fr 2fr;
+    grid-template-columns: 120px 0.5fr 1fr;
+    opacity: 0.98;
+}   
+
+/**/
+.spacer {
+    align-self: start;
+    justify-self: left;
+}
+
+/*Styles the main title at the top of the page*/
+.navigator {
+    align-self: start;
+    justify-self: left;
+    margin: 20px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;
+}
+
+/*Styles the title image (monster hunter logo)*/
+.title {
+    align-self: start;
+    justify-self: left;
+    margin: 30px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;  
+}
+/* fixes the lists to make them more appealing to look at*/
+.list {
+    margin-top: 235px;
+    margin-left: 30px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;
+    text-decoration: none;
+    width: 375px;
+
+}
+
+/* simply changes the color of the links in the list when hovering over them */
+.list li a:hover {
+    text-decoration: none;
+    color: #baa227;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+/* styles the sword image */
+.laJusticiere {
+    text-align: center;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;
+    width: 375px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+}
+
+/*applies a styled rectangle to some of the largest text. Adding an image to the right and a top gold border*/
+.footnote {
+    background-color: #292828;
+    margin: 0%;
+    padding: 10px;
+    text-align: center;
+    border-top: #baa227 solid 3px;
+    background-image: url("media/shuriken.png");
+    background-repeat: no-repeat;
+}
+
+/* same as .footnote but the gold border is at the bottom */
+.footnoteBottom {
+    background-color: #292828;
+    margin: 0%;
+    padding: 10px;
+    text-align: center;
+    border-bottom: #baa227 solid 3px;
+    background-image: url("media/shuriken.png");
+    background-repeat: no-repeat;
+}
+
+/* wrapper element for the two largest elements to the right of the website */
+.guideWrapper {
+    align-self: start;
+    justify-self: left;
+    width: 500px;
+    height: 410px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;
+}
+
+/* an empty rectangle with gold border at the top*/
+.styleTop {
+    background-color: #292828;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+    border-bottom: #baa227 solid 3px;
+}
+
+/* an empty rectangle with a gold border at the bottom*/
+.styleBottom {
+    background-color: #292828;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+    border-top: #baa227 solid 3px;
+}
+
+.textStyle1 {
+    margin: 0%;
+}
+
+/* adds bottom and top gray solid border to some list elements */
+.textStyle {
+    border-top: solid #383535;
+    border-bottom: solid #383535;
+    margin-right: 10px;
+}
+ 
+.paragraphStyle {
+    margin: 0px;
+}
+
+
+
+.input {
+    display: inline-block;
+    position: relative;
+    margin-right: 90px;
+    padding: 10px;
+    border: solid 3px #baa227;
+    border-radius: 4px;
+    background-color: #383535;
+}
+
+.input:hover {
+    background-color: #ffffff;
+}
+
+a:hover {
+    color: #baa227;
+}
+
+.items {
+    list-style: none;
+    position: relative;
+    margin: 0px;
+}

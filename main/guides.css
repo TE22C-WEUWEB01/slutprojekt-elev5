@@ -1,0 +1,154 @@
+body {
+    background-image: url("media/10f9f0f1-bd7d-4ae5-815b-b1a94de07135-Fatalis_Multiplayer_02.webp");
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    color: white;
+    background-size: cover;
+}
+
+h4 {
+    padding: 10px;
+}
+
+h1 {
+    padding: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#button {
+    background-color: #c31143;
+    color: white;
+    border: solid 2px #383535;
+    font-size: 14px;
+    width: 10em;
+    height: 3em;
+}
+
+#number {
+    border: solid 2px #383535;
+    font-size: 14px;
+}
+
+/* sets the display for all of the content of the site */
+.wrapper {
+    display: grid;
+    justify-content: center;
+}
+
+/* the main actual content of the site. The square that is layered right on top of the background image
+*/
+.content {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 1000px; 
+    background-color: #383535;
+    border-radius: 7px;
+    border:#c31143 solid 5px;
+    grid-template-rows: 100px 1fr 2fr;
+    grid-template-columns: 130px 0.5fr 1fr;
+    opacity: 0.98;
+}  
+
+.title {
+    align-self: start;
+    justify-self: left;
+    margin: 30px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #c31143 solid 3px; 
+}
+
+.input {
+    display: inline-block;
+    position: relative;
+    margin-right: 90px;
+    padding: 10px;
+    border: solid 3px #c31143;
+    border-radius: 4px;
+    background-color: #383535;
+}
+
+.images {
+    margin-left: 30px;
+    margin-top: 60px;
+    background-color: #1c1c1c;
+    width: 400px;
+    border: #c31143 solid 3px;
+}
+
+.footnote {
+    background-color: #292828;
+    margin: 0%;
+    padding: 10px;
+    text-align: center;
+    border-top: #c31143 solid 3px;
+    background-image: url("media/shuriken.png");
+    background-repeat: no-repeat;
+}
+
+.navigator {
+    align-self: start;
+    justify-self: left;
+    margin: 20px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #c31143 solid 3px;
+}
+
+.guideWrapper {
+    align-self: start;
+    justify-self: left;
+    width: 500px;
+    height: 400px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #c31143 solid 3px;
+}
+
+/* an empty rectangle with gold border at the top*/
+.styleTop {
+    background-color: #292828;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+    border-bottom: #c31143 solid 3px;
+}
+
+/* an empty rectangle with a gold border at the bottom*/
+.styleBottom {
+    background-color: #292828;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+    border-top: #c31143 solid 3px;
+}
+
+.text {
+    padding: 10px;
+}
+
+.input:hover {
+    background-color: #ffffff;
+}
+
+a:hover {
+    color: #c31143;
+}
+
+.items {
+    list-style: none;
+    position: relative;
+    margin: 0px;
+}

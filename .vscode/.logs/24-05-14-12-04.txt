@@ -1,0 +1,1090 @@
+24-05-14 12:04 Session started
+----------------------------------------
+12:04:24 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+08:28:31 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+
+08:34:23 020:008 > a
+08:34:23 020:009 > as
+08:34:24 020:008 > <aside></aside>
+
+08:34:28 023:008 > s
+08:34:28 023:009 > se
+08:34:28 023:010 > sed
+08:34:29 023:011 > sedc
+08:34:29 023:010 > sedcc
+08:34:30 023:008 > <section></section>
+
+08:38:50 021:012 > h
+08:38:50 021:013 > h1
+08:38:50 021:012 > <h1></h1>
+08:38:51 021:016 > t
+08:38:51 021:017 > te
+08:38:51 021:018 > tes
+08:38:52 021:019 > test
+
+08:38:53 024:012 > h
+08:38:53 024:013 > h2
+08:38:54 024:013 > h21
+08:38:54 024:012 > <h1></h1>
+08:38:55 024:016 > t
+08:38:55 024:017 > te
+08:38:55 024:018 > tes
+08:38:55 024:019 > test
+
+08:39:17 020:015 > c
+08:39:17 020:016 > cl
+08:39:17 020:017 > cla
+08:39:17 020:018 > clas
+08:39:17 020:019 > class
+08:39:18 020:020 > class=
+08:39:18 020:021 > ""
+08:39:18 020:022 > i
+08:39:19 020:023 > in
+08:39:19 020:024 > inf
+08:39:19 020:025 > info
+08:39:19 020:026 > infor
+08:39:19 020:027 > inform
+08:39:20 020:028 > informa
+08:39:20 020:029 > informat
+08:39:20 020:030 > informati
+08:39:20 020:031 > informatio
+08:39:21 020:032 > information
+
+08:39:24 023:017 > c
+08:39:24 023:018 > cl
+08:39:24 023:019 > cla
+08:39:24 023:020 > clas
+08:39:24 023:021 > class
+08:39:24 023:022 > class=
+08:39:25 023:023 > ""
+08:39:27 023:024 > B
+08:39:28 023:024 > Bb
+08:39:28 023:025 > Bba
+08:39:28 023:026 > Bban
+08:39:28 023:027 > Bbann
+08:39:28 023:028 > Bbanne
+08:39:28 023:029 > Bbanner
+08:39:30 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+
+08:39:35 057:000 > .
+08:39:35 057:001 > .i
+08:39:36 057:002 > .in
+08:39:36 057:003 > .inf
+08:39:36 057:004 > .info
+08:39:37 057:005 > .infor
+08:39:37 057:006 > .inform
+08:39:37 057:007 > .informa
+08:39:37 057:008 > .informat
+08:39:37 057:009 > .informati
+08:39:38 057:010 > .informatio
+08:39:38 057:011 > .information
+08:39:40 057:013 > {}
+
+08:39:43 061:000 > .
+08:39:43 061:001 > .b
+08:39:43 061:002 > .ba
+08:39:43 061:003 > .ban
+08:39:43 061:004 > .bann
+08:39:44 061:005 > .banne
+08:39:44 061:006 > .banner
+08:39:44 061:008 > {}
+
+08:51:05 062:004 > b
+08:51:05 062:005 > ba
+08:51:05 062:006 > bac
+08:51:07 062:004 > background-image: ;
+08:51:09 062:022 > u
+08:51:09 062:023 > ur
+08:51:10 062:022 > url()
+08:51:11 062:026 > ""
+08:51:12 062:027 > https://www.rgj.com/gcdn/presto/2020/10/04/PREN/10f9f0f1-bd7d-4ae5-815b-b1a94de07135-Fatalis_Multiplayer_02.jpg
+08:52:55 006:000 > html,body {
+  height:100%;
+  min-height:100%;
+  max-height:100%;
+}
+08:53:20 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+
+08:53:31 025:012 > p
+08:53:31 025:012 > <p></p>
+08:53:32 025:015 > l
+08:53:32 025:016 > lo
+08:53:32 025:017 > lor
+08:53:33 025:015 > Lorem ipsum dolor sit amet consectetur adipisicing elit. In doloribus, quis commodi architecto rerum ducimus sunt, corporis laudantium reprehenderit, ea aliquid sequi quaerat! Harum vero beatae, eius placeat voluptas accusantium.
+08:53:37 025:015 > lor
+08:53:40 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+08:53:51 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+
+08:53:55 024:012 > i
+08:53:55 024:013 > im
+08:53:55 024:014 > img
+08:53:55 024:012 > <img src="" alt="">
+08:53:57 024:022 > html,body {
+  height:100%;
+  min-height:100%;
+  max-height:100%;
+}
+08:53:59 024:012 > img
+08:54:01 024:012 > i
+08:54:02 024:013 > im
+08:54:02 024:014 > img
+08:54:02 024:012 > <img src="" alt="">
+08:54:03 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+08:54:04 068:000 > background-image: url("https://www.rgj.com/gcdn/presto/2020/10/04/PREN/10f9f0f1-bd7d-4ae5-815b-b1a94de07135-Fatalis_Multiplayer_02.jpg");
+08:54:12 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+08:54:14 024:022 > https://www.rgj.com/gcdn/presto/2020/10/04/PREN/10f9f0f1-bd7d-4ae5-815b-b1a94de07135-Fatalis_Multiplayer_02.jpg
+08:54:15 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+08:54:20 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+08:54:32 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+
+08:54:35 068:004 > i
+
+08:54:39 071:000 > i
+08:54:39 071:001 > im
+08:54:39 071:002 > img
+08:54:41 071:004 > {}
+
+08:54:42 072:004 > w
+08:54:42 072:005 > wi
+08:54:43 072:006 > wid
+08:54:43 072:007 > widt
+08:54:43 072:008 > width
+08:54:43 072:004 > width: ;
+08:54:44 072:011 > 4
+08:54:45 072:012 > 40
+08:54:45 072:013 > 400
+08:54:45 072:014 > 400p
+08:54:45 072:015 > 400px
+
+08:54:46 073:004 > h
+08:54:46 073:005 > he
+08:54:47 073:004 > height: ;
+08:54:48 073:012 > 4
+08:54:48 073:013 > 40
+08:54:48 073:014 > 400
+08:54:48 073:015 > 400p
+08:54:48 073:016 > 400px
+08:56:22 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+08:56:25 000:000 > c:\Users\simeon.milic\github-classroom\TE22C-WEUWEB01\webb-1-Simeon12345678\vår termin\kapitel-8\javaescript\javascript.html
+08:56:35 000:000 > <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="javascript.css">
+    <link rel="stylesheet" href="extra.css">
+    <title>MH fanpage</title>
+</head>
+<body>
+    <button>press to change</button>
+    <!-- this section is the main wrapper element for the entire site-->
+    <section class="wrapper">
+        <!-- main content div for the whole site. Styles to be in the center by the wrapper and has all items in it be grid elements-->
+        <div class="content">
+            <!-- This is a logo i have added for estetic purposes-->
+            <div class="title">
+                <img src="media/Monster_Hunter_logo.png" alt="mhlogo">
+            </div>
+            <div class="spacer"></div> <!-- empty div i use to occupy unwanted grid space, just spaces everything to look nicer -->
+            <div class="content1">
+                <h3>&nbsp; Fanpage by Simeon the NUMBER1! Monster hunter fan!&nbsp;&nbsp; </h3>
+            </div>
+            <!-- an unordered list with several links -->
+            <div class="list">
+                <ul>
+                    <li><a href="https://monsterhunterworld.wiki.fextralife.com/Jagras">Jagras</a></li>
+                    <li><a href="https://monsterhunterworld.wiki.fextralife.com/Teostra">Teostra</a></li>
+                    <li><a href="https://monsterhunterworld.wiki.fextralife.com/Alatreon">Alatreon</a></li>
+                    <li><a href="https://monsterhunterworld.wiki.fextralife.com/Barioth">Barioth</a></li>
+                    <li><a href="https://monsterhunterworld.wiki.fextralife.com/Kushala+Daora">Kushala Daora</a></li>
+                </ul>
+                <h3 class="footnote">&nbsp;&nbsp;&nbsp;definitive list of coolest monsters</h4>
+            </div>
+            <!-- same as before just another spacer -->
+            <div class="spacer"></div>
+            <!-- a subwrapper for the two largest right elements, they were large enough to require one-->
+            <section class="guideWrapper">
+                <div class="guide">
+                    <!-- another set of lists but these are more styled in the css and are not links rather just normal text for estetic reasons-->
+                    <h3 class="footnoteBottom">&nbsp;&nbsp;The best build for upcoming HR players!</h3>
+                    <ul>
+                        <p class="paragraphStyle">Skills:</p>
+                        <li><P class="textStyle">Bloodlust, Bladescale Hone and Chameleos Blessing</P></li>
+                        <p class="paragraphStyle">Decorations:</p>
+                        <li><p class="textStyle">Bloodening Jewel +4, Fungiform Jewel 3, Polisher Pro Jewel +4, Water Res Jewel 1</p></li>
+                        <p class="paragraphStyle">Armor:</p>
+                        <li><p class="textStyle">Full Primordial Malzeno set for max POWER</p></li>
+                        <p class="paragraphStyle">Weapon:</p>
+                        <li><p class="textStyle">The dreamy bear hammer is the most optimal choice for a PRO</p></li>
+                    </ul>
+                </div>
+            </section>
+            <!-- this image is only here for design and fits the theme of my total website-->   
+            <div class="laJusticiere">
+                <img src="media/laJusticiere.png" alt="sword" width="300" height="250">
+                <h2 class="footnote">&nbsp;&nbsp;&nbsp;The best sword (objective)</h2>
+            </div>
+            <!-- spacer element -->
+            <div class="spacer"></div>
+            <!-- the second large div element using the same wrapper element -->
+            <div class="guideWrapper">
+                <div class="styleTop"></div>
+                <div class="textStyle2">
+                    <h4>
+                        Monster hunter is a banger game.<br><br>
+
+                        There is so much fun to be had in hunting the monsters. Everything from the combat to their movesets is enjoyable.<br>
+                        The build variation is vast and there are so many weapons to choose from and play with.<br><br>
+
+                        I would like to thank capcom for making so many of these games for us all to enjoy. Generations of these games have entertained generations of people as well.<br><br>
+
+                        Thanks for reading!
+                    </h4>
+                </div>
+                <div class="styleBottom"></div>
+            </div>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
+08:56:40 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+08:56:55 000:000 > body {
+    background-image: url("media/MHR-Sunbreak-banner.jpg");
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+
+/* sets the display for all of the content of the site */
+.wrapper {
+    display: grid;
+    justify-content: center;
+}
+
+/* the main actual content of the site. The square that is layered right on top of the background image
+*/
+.content {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 1000px; 
+    background-color: #383535;
+    border-radius: 7px;
+    border:#baa227 solid 5px;
+    grid-template-rows: 100px 1fr 2fr;
+    grid-template-columns: 130px 0.5fr 1fr;
+    opacity: 0.98;
+}   
+
+/**/
+.spacer {
+    align-self: start;
+    justify-self: left;
+}
+
+/*Styles the main title at the top of the page*/
+.content1 {
+    align-self: start;
+    justify-self: left;
+    margin: 20px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;
+}
+
+/*Styles the title image (monster hunter logo)*/
+.title {
+    align-self: start;
+    justify-self: left;
+    margin: 30px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;  
+}
+/* fixes the lists to make them more appealing to look at*/
+.list {
+    margin-top: 235px;
+    margin-left: 30px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;
+    text-decoration: none;
+    width: 375px;
+
+}
+
+/* simply changes the color of the links in the list when hovering over them */
+.list li a:hover {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+}
+
+/* styles the sword image */
+.laJusticiere {
+    text-align: center;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;
+    width: 375px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+}
+
+/*applies a styled rectangle to some of the largest text. Adding an image to the right and a top gold border*/
+.footnote {
+    background-color: #292828;
+    margin: 0%;
+    padding: 10px;
+    text-align: center;
+    border-top: #baa227 solid 3px;
+    background-image: url("media/shuriken.png");
+    background-repeat: no-repeat;
+}
+
+/* same as .footnote but the gold border is at the bottom */
+.footnoteBottom {
+    background-color: #292828;
+    margin: 0%;
+    padding: 10px;
+    text-align: center;
+    border-bottom: #baa227 solid 3px;
+    background-image: url("media/shuriken.png");
+    background-repeat: no-repeat;
+}
+
+/* wrapper element for the two largest elements to the right of the website */
+.guideWrapper {
+    align-self: start;
+    justify-self: left;
+    width: 500px;
+    height: 400px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border-radius: 7px;
+    background-color: #1c1c1c;
+    border: #baa227 solid 3px;
+}
+
+/* an empty rectangle with gold border at the top*/
+.styleTop {
+    background-color: #292828;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+    border-bottom: #baa227 solid 3px;
+}
+
+/* an empty rectangle with a gold border at the bottom*/
+.styleBottom {
+    background-color: #292828;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+    border-top: #baa227 solid 3px;
+}
+
+.textStyle1 {
+    margin: 0%;
+}
+
+/* adds bottom and top gray solid border to some list elements */
+.textStyle {
+    border-top: solid #383535;
+    border-bottom: solid #383535;
+    margin-right: 10px;
+}
+ 
+paragraphStyle {
+    margin: 0%;
+}
+08:56:58 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+08:57:36 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+
+08:57:49 007:033 > s
+08:57:49 007:034 > st
+08:57:49 007:035 > sty
+08:57:50 007:036 > styl
+08:57:50 007:037 > style
+08:57:51 007:033 > style.css
+08:58:35 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+08:58:43 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+08:58:51 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+
+08:58:59 006:000 > h
+08:59:00 006:001 > h4
+08:59:02 006:003 > {}
+
+08:59:03 007:004 > p
+08:59:03 007:005 > pa
+08:59:03 007:006 > pad
+08:59:03 007:007 > padd
+08:59:04 007:004 > padding: ;
+08:59:04 007:013 > 1
+08:59:04 007:014 > 10
+08:59:05 007:015 > 10p
+08:59:05 007:016 > 10px
+
+09:00:43 121:019 > 1
+09:00:43 121:020 > 10
+09:00:43 121:021 > 10p
+09:00:43 121:022 > 10px
+09:01:04 121:019 > 10px0
+
+09:02:11 118:013 > 5
+09:02:16 118:013 > 51
+09:02:28 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+
+09:03:33 020:013 > n
+09:03:33 020:014 > na
+09:03:33 020:015 > nav
+
+09:03:36 022:014 > n
+09:03:36 022:015 > na
+09:03:37 022:016 > nav
+
+09:03:51 012:005 > d
+09:03:51 012:006 > di
+09:03:51 012:007 > div
+
+09:03:58 078:006 > d
+09:03:58 078:007 > di
+09:03:58 078:008 > div
+
+09:04:11 016:013 > h
+09:04:11 016:014 > he
+09:04:11 016:015 > hea
+09:04:11 016:016 > head
+09:04:12 016:017 > heade
+09:04:12 016:018 > header
+
+09:04:15 018:014 > h
+09:04:15 018:015 > he
+09:04:15 018:016 > hea
+09:04:16 018:017 > head
+09:04:16 018:018 > heade
+09:04:16 018:019 > header
+
+09:05:55 024:013 > a
+09:05:55 024:014 > as
+09:05:56 024:015 > asi
+09:05:56 024:016 > asid
+09:05:56 024:017 > aside
+09:05:59 033:000 > </a
+
+09:05:59 033:019 > s
+09:06:00 033:020 > si
+09:06:00 033:021 > sid
+09:06:00 033:022 > side
+
+09:06:23 037:013 > d
+09:06:23 037:014 > di
+09:06:23 037:015 > div
+
+09:06:27 052:014 > d
+09:06:27 052:015 > di
+09:06:27 052:016 > div
+
+09:06:30 038:017 > s
+09:06:31 038:018 > se
+09:06:31 038:019 > sec
+09:06:31 038:020 > sect
+09:06:31 038:021 > secti
+09:06:31 038:022 > sectio
+09:06:32 038:023 > section
+
+09:06:35 051:018 > s
+09:06:35 051:019 > se
+09:06:36 051:020 > sec
+09:06:36 051:021 > sect
+09:06:36 051:022 > secti
+09:06:36 051:023 > sectio
+09:06:36 051:024 > section
+
+09:06:47 054:013 > m
+09:06:47 054:014 > me
+09:06:47 054:015 > med
+09:06:47 054:016 > medi
+09:06:47 054:017 > media
+
+09:06:51 057:014 > m
+09:06:51 057:015 > me
+09:06:51 057:016 > med
+09:06:52 057:017 > medi
+09:06:52 057:018 > media
+
+09:07:45 054:013 > s
+09:07:45 054:014 > se
+09:07:46 054:015 > sec
+09:07:46 054:016 > sect
+09:07:46 054:017 > secti
+09:07:46 054:018 > sectio
+09:07:46 054:019 > section
+
+09:07:49 057:014 > s
+09:07:50 057:015 > se
+09:07:50 057:016 > sec
+09:07:50 057:017 > sect
+09:07:50 057:018 > secti
+09:07:50 057:019 > sectio
+09:07:51 057:020 > section
+
+09:08:48 063:017 > s
+09:08:48 063:018 > se
+09:08:48 063:019 > sec
+09:08:49 063:020 > sect
+09:08:49 063:021 > secti
+09:08:49 063:022 > sectio
+09:08:49 063:023 > section
+
+09:08:53 074:018 > s
+09:08:53 074:019 > se
+09:08:54 074:020 > sec
+09:08:54 074:021 > sect
+09:08:54 074:022 > secti
+09:08:54 074:023 > sectio
+09:08:54 074:024 > section
+
+09:12:33 032:093 > 3
+
+09:14:53 042:024 > o
+09:14:53 042:025 > ol
+09:14:53 042:024 > <ol></ol>
+
+09:14:59 043:028 > l
+09:14:59 043:029 > li
+09:15:00 043:028 > <li></li>
+09:15:19 043:032 > class="paragraphStyle"
+09:15:26 043:055 > Skills:
+09:15:42 046:000 > <ol>
+                            <li class="paragraphStyle">Skills:</li>
+                        </ol>
+
+09:15:46 047:055 > D
+09:15:46 047:056 > De
+09:15:46 047:057 > Dec
+09:15:47 047:058 > Dect
+09:15:47 047:058 > Decto
+09:15:47 047:059 > Dector
+09:15:47 047:060 > Dectora
+09:15:48 047:061 > Dectorat
+09:15:48 047:062 > Dectorati
+09:15:48 047:063 > Dectoratio
+09:15:48 047:064 > Dectoration
+09:15:48 047:066 > Dectoration s
+09:15:49 047:065 > Dectoration ss
+09:15:55 050:000 > <ol>
+                            <li class="paragraphStyle">Skills:</li>
+                        </ol>
+09:16:00 054:000 > <ol>
+                            <li class="paragraphStyle">Skills:</li>
+                        </ol>
+
+09:16:06 051:055 > A
+09:16:06 051:056 > Ar
+09:16:06 051:057 > Arm
+09:16:07 051:058 > Armo
+09:16:07 051:059 > Armor
+
+09:16:11 055:055 > W
+09:16:12 055:056 > We
+09:16:12 055:057 > Wea
+09:16:12 055:058 > Weap
+09:16:13 055:059 > Weapo
+09:16:13 055:060 > Weapon
+09:16:13 055:061 > Weapons
+
+09:17:15 044:024 > u
+09:17:15 044:025 > ul
+09:17:22 044:024 > ulu
+09:17:23 044:025 > ulul
+09:17:23 044:024 > <ul></ul>
+
+09:17:32 046:025 > /
+09:17:33 046:026 > ul
+
+09:18:07 048:024 > u
+09:18:08 048:025 > ul
+09:18:08 048:024 > <ul></ul>
+09:18:13 050:020 > </ul>
+
+09:18:26 051:024 > u
+09:18:26 051:025 > ul
+09:18:26 051:024 > <ul></ul>
+09:18:33 053:024 > </ul>
+
+09:18:45 055:024 > u
+09:18:46 055:025 > ul
+09:18:46 055:024 > <ul></ul>
+09:18:55 057:024 > </ul>
+09:19:28 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+09:19:57 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+09:20:04 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+09:20:21 129:000 > background-color: #292828;
+09:22:01 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+09:22:18 043:000 > <ul>
+                            <li><P class="textStyle">Bloodlust, Bladescale Hone and Chameleos Blessing</P></li>
+                        </ul>
+09:22:31 048:000 > <ul>
+                            <li><p class="textStyle">Bloodening Jewel +4, Fungiform Jewel 3, Polisher Pro Jewel +4, Water Res Jewel 1</p></li>
+                        </ul>
+09:22:40 053:000 > <ul>
+                            <li><p class="textStyle">Full Primordial Malzeno set for max POWER</p></li>
+                        </ul>
+09:22:51 058:000 > <ul>
+                            <li><p class="textStyle">The dreamy bear hammer is the most optimal choice for a PRO</p></li>
+                        </ul>
+
+09:27:13 021:016 > u
+09:27:14 021:017 > ul
+09:27:14 021:016 > <ul></ul>
+
+09:27:15 022:020 > l
+09:27:15 022:021 > li
+09:27:16 022:020 > <li></li>
+
+09:27:18 023:020 > l
+09:27:18 023:021 > li
+09:27:18 023:020 > <li></li>
+
+09:27:20 024:020 > l
+09:27:21 024:021 > li
+09:27:21 024:020 > <li></li>
+
+09:27:25 020:024 > n
+09:27:26 020:025 > na
+09:27:26 020:026 > nav
+09:27:26 020:027 > navi
+09:27:26 020:028 > navig
+09:27:27 020:029 > naviga
+09:27:27 020:030 > navigat
+09:27:27 020:031 > navigato
+09:27:27 020:032 > navigator
+09:27:29 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+
+09:27:38 039:001 > n
+09:27:38 039:002 > na
+09:27:38 039:003 > nav
+09:27:38 039:004 > navi
+09:27:39 039:005 > navig
+09:27:39 039:006 > naviga
+09:27:39 039:007 > navigat
+09:27:39 039:008 > navigato
+09:27:39 039:009 > navigator
+10:10:57 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+14:02:32 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+
+14:03:58 031:089 > B
+14:03:59 031:090 > Bh
+14:03:59 031:090 > Bhe
+14:04:00 031:091 > Bheh
+14:04:00 031:092 > Bhehe
+14:04:00 031:093 > Bhehem
+14:04:00 031:094 > Bheheme
+14:04:01 031:094 > Bhehemeo
+14:04:01 031:095 > Bhehemeot
+14:04:01 031:096 > Bhehemeoth
+
+14:16:09 021:020 > c
+14:16:09 021:021 > cl
+14:16:09 021:022 > cla
+14:16:09 021:023 > clas
+14:16:10 021:024 > class
+14:16:10 021:025 > class=
+14:16:10 021:026 > ""
+14:16:53 021:027 > i
+14:16:53 021:028 > it
+14:16:53 021:029 > ite
+14:16:53 021:030 > item
+14:16:53 021:031 > items
+
+14:17:12 022:024 > c
+14:17:12 022:025 > cl
+14:17:12 022:026 > cla
+14:17:12 022:027 > clas
+14:17:12 022:028 > class
+14:17:13 022:029 > class=
+14:17:13 022:030 > ""
+14:17:13 022:031 > i
+14:17:13 022:032 > in
+14:17:14 022:033 > inp
+14:17:14 022:034 > inpi
+14:17:14 022:035 > inpit
+14:17:15 022:034 > inpitt
+14:17:16 022:034 > inpittu
+14:17:16 022:035 > inpittut
+
+14:17:19 023:024 > c
+14:17:19 023:025 > cl
+14:17:20 023:026 > cla
+14:17:20 023:027 > clas
+14:17:20 023:028 > class
+14:17:20 023:024 > class=""
+14:17:32 023:031 > i
+14:17:32 023:032 > in
+14:17:33 023:033 > inp
+14:17:33 023:034 > inpi
+14:17:33 023:035 > inpit
+14:17:34 023:034 > inpitu
+14:17:34 023:035 > inpitut
+
+14:17:43 024:024 > c
+14:17:44 024:025 > cl
+14:17:44 024:026 > cla
+14:17:44 024:027 > clas
+14:17:44 024:028 > class
+14:17:44 024:029 > class=
+14:17:45 024:030 > ""
+14:17:45 024:031 > i
+14:17:46 024:032 > in
+14:17:46 024:033 > inp
+14:17:46 024:034 > inpu
+14:17:47 024:035 > input
+
+14:17:52 022:038 > H
+14:17:52 022:039 > Ho
+14:17:52 022:040 > Hom
+14:17:52 022:041 > Home
+
+14:17:54 023:038 > B
+14:17:55 023:039 > Bu
+14:17:55 023:040 > Bui
+14:17:55 023:041 > Buil
+14:17:55 023:042 > Build
+14:17:55 023:043 > Builds
+
+14:17:57 024:038 > G
+14:17:58 024:039 > Gu
+14:17:58 024:040 > Gui
+14:17:58 024:041 > Guid
+14:17:58 024:042 > Guide
+14:17:59 024:043 > Guides
+14:18:35 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+
+14:18:42 160:000 > .
+14:18:43 160:001 > .i
+14:18:44 160:002 > .in
+14:18:44 160:003 > .inp
+14:18:44 160:004 > .inpu
+14:18:44 160:005 > .input
+14:18:46 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+14:18:48 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+14:22:24 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+14:22:26 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+14:22:29 162:007 > {}
+
+14:22:32 166:000 > .
+14:22:32 166:001 > .i
+14:22:32 166:002 > .it
+14:22:32 166:003 > .ite
+14:22:32 166:004 > .item
+14:22:33 166:005 > .items
+14:22:34 166:007 > {}
+14:22:35 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+14:22:44 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+
+14:22:48 167:004 > l
+14:22:48 167:006 > lis
+14:22:48 167:005 > li
+14:22:49 167:007 > list
+14:22:50 167:004 > list-style: ;
+14:22:51 167:016 > n
+14:22:51 167:017 > no
+14:22:52 167:016 > none
+
+14:22:57 163:004 > d
+14:22:57 163:005 > di
+14:22:57 163:006 > dis
+14:22:57 163:007 > disp
+14:22:58 163:004 > display: ;
+14:22:59 163:013 > i
+14:22:59 163:014 > in
+14:22:59 163:015 > inl
+14:23:00 163:013 > inline-block
+
+14:23:05 164:004 > a
+14:23:06 164:005 > ar
+14:23:06 164:006 > arg
+14:23:08 164:004 > argm
+14:23:08 164:005 > argma
+14:23:08 164:006 > argmar
+14:23:08 164:007 > argmarg
+14:23:10 164:004 > margin-right: ;
+14:23:11 164:018 > 1
+14:23:11 164:019 > 10
+14:23:11 164:020 > 10p
+14:23:12 164:021 > 10px
+14:23:29 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+14:24:37 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+
+14:24:40 169:004 > b
+14:24:40 169:005 > bo
+14:24:40 169:006 > bor
+14:24:40 169:007 > bord
+14:24:41 169:004 > border: ;
+14:24:41 169:012 > s
+14:24:42 169:013 > so
+14:24:42 169:014 > sol
+14:24:42 169:012 > solid
+14:24:43 169:018 >  2
+14:24:49 169:018 >  23
+14:24:49 169:019 >  23p
+14:24:49 169:020 >  23px
+14:25:00 169:022 > #baa227
+14:25:31 165:004 > border: solid 3px #baa227;
+
+14:25:36 165:004 > p
+14:25:37 165:005 > pa
+14:25:37 165:006 > pad
+14:25:37 165:007 > padd
+14:25:38 165:004 > padding: ;
+14:25:38 165:013 > 1
+14:25:38 165:014 > 10
+14:25:39 165:015 > 10p
+14:25:39 165:016 > 10px
+14:25:45 165:013 > 10px7
+14:25:50 165:013 > 10px73
+
+14:25:58 167:004 > b
+14:25:59 167:005 > bo
+14:25:59 167:006 > bor
+14:25:59 167:007 > bord
+14:26:00 167:004 > border-radius: ;
+14:26:01 167:019 > 4
+14:26:01 167:020 > 4p
+14:26:01 167:021 > 4px
+
+14:27:58 168:004 > b
+14:27:59 168:005 > ba
+14:27:59 168:006 > bac
+14:28:00 168:004 > background-color: ;
+14:28:02 168:022 > #383535
+
+14:28:21 164:018 > 4
+14:28:26 164:018 > 48
+
+14:28:39 173:004 > m
+14:28:39 173:005 > ma
+
+14:30:15 164:018 > 1
+14:30:15 164:019 > 10
+
+14:30:49 173:004 > p
+14:30:49 173:005 > pa
+14:30:49 173:006 > pad
+14:30:49 173:007 > padd
+14:30:50 173:008 > paddi
+14:30:50 173:009 > paddin
+14:30:50 173:010 > padding
+14:30:50 173:004 > padding: ;
+14:30:51 173:013 > 1
+14:30:51 173:014 > 10
+14:30:51 173:015 > 10p
+14:30:51 173:016 > 10px
+
+14:31:13 164:004 > p
+14:31:14 164:005 > po
+14:31:14 164:006 > pos
+14:31:16 164:004 > position: ;
+14:31:17 164:014 > a
+14:31:17 164:014 > absolute
+14:31:20 164:014 > a
+14:31:21 164:004 > pos
+
+14:31:25 173:004 > p
+14:31:25 173:005 > po
+14:31:25 173:006 > pos
+14:31:27 173:004 > position: ;
+14:31:28 173:014 > absolute
+14:31:34 173:014 > r
+14:31:34 173:015 > re
+14:31:34 173:016 > rel
+14:31:35 173:014 > relative
+
+14:31:40 164:004 > p
+14:31:41 164:005 > po
+14:31:41 164:006 > pos
+14:31:41 164:007 > posi
+14:31:43 164:004 > position: ;
+14:31:44 164:014 > relative
+
+14:32:53 166:013 > 1
+14:32:54 166:014 > 10
+
+14:33:00 165:018 > 9
+14:33:00 165:019 > 90
+
+14:33:11 175:004 > m
+14:33:11 175:005 > ma
+14:33:11 175:006 > mar
+14:33:12 175:007 > marg
+14:33:12 175:004 > margin: ;
+14:33:13 175:012 > 0
+14:33:13 175:013 > 0p
+14:33:13 175:014 > 0px
+14:35:43 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\index.html
+----------------------------------------
+
+14:35:46 022:038 > a
+14:35:46 022:038 > <a href=""></a>
+14:35:49 022:049 > H
+14:35:50 022:050 > Ho
+14:35:50 022:051 > Hom
+14:35:50 022:052 > Home
+14:35:52 022:047 > Homei
+14:35:52 022:048 > Homein
+14:35:52 022:049 > Homeind
+14:35:53 022:050 > Homeinde
+14:35:53 022:047 > index.html
+
+14:35:56 023:038 > a
+14:35:57 023:038 > <a href=""></a>
+14:36:06 023:049 > H
+14:36:06 023:050 > Ho
+14:36:06 023:051 > Hom
+14:36:06 023:052 > Home
+14:36:09 023:049 > HomeB
+14:36:09 023:050 > HomeBu
+14:36:09 023:051 > HomeBui
+14:36:10 023:052 > HomeBuil
+14:36:10 023:053 > HomeBuild
+14:36:10 023:054 > HomeBuilds
+
+14:36:13 024:038 > a
+14:36:13 024:038 > <a href=""></a>
+14:36:17 024:049 > G
+14:36:17 024:050 > Gu
+14:36:18 024:051 > Gui
+14:36:19 024:052 > Guid
+14:36:19 024:053 > Guide
+14:36:19 024:054 > Guides
+14:36:28 Document switched to: c:\Users\simeon.milic\slutprojekt-Simeon12345678\main\style.css
+----------------------------------------
+
+14:37:11 079:000 > a
+14:37:12 079:002 > []
+14:37:14 079:002 > {}
+
+14:37:15 080:004 > t
+14:37:15 080:005 > te
+14:37:15 080:006 > tex
+14:37:15 080:007 > text
+14:37:17 080:004 > text-decoration: ;
+14:37:18 080:021 > n
+14:37:18 080:021 > none
+
+14:37:20 081:004 > c
+14:37:20 081:005 > co
+14:37:20 081:006 > col
+14:37:20 081:007 > colo
+14:37:20 081:008 > color
+14:37:21 081:004 > color: ;
+14:37:22 081:011 > F
+14:37:22 081:012 > FF
+14:37:22 081:013 > FFF
+14:37:22 081:014 > FFFF
+14:37:22 081:015 > FFFFF
+14:37:23 081:016 > FFFFFF
+14:37:27 081:011 > FFFFFF#
+
+14:37:47 177:000 > .
+14:37:47 177:001 > .I
+14:37:47 177:002 > .IN
+14:37:47 177:003 > .INP
+14:37:48 177:000 > .input
+14:37:51 177:006 > :
+14:37:54 177:007 > :h
+14:37:55 177:008 > :ho
+14:37:56 177:009 > :hov
+14:37:56 177:006 > :hover
+14:37:57 177:013 > {}
+
+14:37:58 178:004 > b
+14:37:59 178:005 > ba
+14:37:59 178:006 > bac
+14:37:59 178:007 > back
+14:38:00 178:004 > background-color: ;
+14:38:02 178:022 > #ffffff
+
+14:38:04 179:004 > c
+14:38:05 179:005 > co
+14:38:05 179:006 > col
+14:38:06 179:004 > color: ;
+14:38:08 179:011 > #383535
+
+14:38:59 075:011 > #
+14:39:01 075:011 > #baa227
+
+14:39:12 181:000 > a
+14:39:13 181:001 > a:
+14:39:14 181:002 > a:h
+14:39:14 181:003 > a:ho
+14:39:14 181:004 > a:hov
+14:39:14 181:005 > a:hove
+14:39:14 181:006 > a:hover
+14:39:15 181:008 > {}
+
+14:39:16 182:004 > c
+14:39:17 182:005 > co
+14:39:17 182:006 > col
+14:39:18 182:004 > color: ;
+14:39:19 182:011 > #baa227
+
+14:39:38 181:000 > ,
+
+14:39:53 177:013 > a
+
+14:39:56 179:004 > c
+14:39:56 179:005 > co
+14:39:56 179:006 > col
+14:39:57 179:007 > colo
+14:39:57 179:004 > color: ;
+14:39:59 179:011 > #baa227
+14:40:04 179:004 > colo
+
+14:40:05 181:000 > ,
+14:40:06 181:000 > a:hover {
+    color: #baa227;
+}
